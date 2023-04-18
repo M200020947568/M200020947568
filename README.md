@@ -12,8 +12,8 @@
 ```javascript
 const mateusz = {
   pronouns: "he" | "his",
-  code: [Rust, Golang, Solidity, Move, Shell],
-  tools: [Docker, Kubernetes, CryctonSDK, CometBFT, Tendermint Core, OpenSSL,],
+  code: [Javascript, Typescript, Rust, Golang, Solidity, Move, Shell],
+  tools: [Docker, Kubernetes, Node, CometBFT, Tendermint Core, OpenSSL,],
   architecture: ["microservices", "smart-contracts", "cryptography", "algorithms"],
   techCommunities: {
                         Founder: "Crycton",
