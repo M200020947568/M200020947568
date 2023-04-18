@@ -8,7 +8,7 @@
 [![GitHub M200020947568](https://img.shields.io/github/followers/M200020947568?label=follow&style=social)](https://github.com/M200020947568)
 
 
-### <img src="https://giphy.com/embed/PzTGOjwfK6whi" width="50"> A little more about me... 
+### <img src="https://giphy.com/gifs/panda-PzTGOjwfK6whi" width="50"> A little more about me... 
 
 ```javascript
 const mateusz = {
