@@ -8,8 +8,7 @@
 [![GitHub M200020947568](https://img.shields.io/github/followers/M200020947568?label=follow&style=social)](https://github.com/M200020947568)
 
 
-### <img src="https://giphy.com/embed/VIWVhLsuxwBPtLYX8k/giphy.gif" width="50"> A little more about me... 
-<iframe src="https://giphy.com/embed/PzTGOjwfK6whi" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/panda-PzTGOjwfK6whi">via GIPHY</a></p>
+### <img src="https://https://giphy.com/embed/PzTGOjwfK6whi" width="50"> A little more about me... 
 
 ```javascript
 const mateusz = {
