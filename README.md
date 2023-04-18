@@ -25,6 +25,7 @@ const mateusz = {
 }
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I am eager to prove that</b> I have the potential to become a top programmer!</b> :)</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>My strong point is my self-denial to create a better version of myself and 
+openness to meet new people.</b> :)</em>
 
 ---
