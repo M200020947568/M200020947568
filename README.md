@@ -20,8 +20,8 @@ const mateusz = {
                         speaker: "Polish(Native), English(B2), German(A2/B1)",
                         mentor: "Satoshi Nakamoto, Vitalik Buterin, Elon Musk"
                       },
- challenge: "I am creating the Crycton. Modular execution layer, 
-             which connects everything in its decentralised network."
+ Idea: "I am creating the Crycton. Modular execution layer, 
+        which connects everything in its decentralised network."
 }
 ```
 
