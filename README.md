@@ -1,5 +1,4 @@
 <h2> Hi, I'm Mateusz Gardzina! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://giphy.com/embed/C2OdXQD97z1VuDpQdK" width="230">
 <p><em>Electronics Engineer at <a href="https://elektryk.krosno.pl">High School at Krosno</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Founder and CTO at Crycton Labs <a href="https://www.thoughtworks.com">Crycton</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
