@@ -4,7 +4,7 @@
 
 [![Twitter: M200020947568](https://img.shields.io/twitter/follow/M200020947568?style=social)](https://twitter.com/M200020947568)
 [![Linkedin: Mateusz-Gardzina](https://img.shields.io/badge/-Mateusz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateusz-gardzina/)](https://www.linkedin.com/in/mateusz-gardzina-4aa547246/)
-[![Medium: M2000](https://img.shields.io/badge/-M2000-lightgrey?style=flat-square&logo=Twitter&LogoColor=white&link=https://www.https://medium.com/@m2000/)](https://medium.com/@m2000)
+[![Medium: M2000](https://img.shields.io/badge/-M2000-black?style=flat-square&logo=Medium&LogoColor=white&link=https://www.https://medium.com/@m2000/)](https://medium.com/@m2000)
 [![GitHub M200020947568](https://img.shields.io/github/followers/M200020947568?label=follow&style=social)](https://github.com/M200020947568)
 
 
