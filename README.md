@@ -14,11 +14,11 @@
 ```javascript
 const mateusz = {
   pronouns: "he" | "his",
-  code: [Javascript, Typescript, Rust, Golang, Shell],
-  tools: [Docker, Kubernetes, Node, OpenSSL,],
+  code: [Javascript, Typescript, Golang, Shell],
+  tools: [Docker, Kubernetes, Node, OpenSSL, Nextjs,],
   architecture: ["microservices", "smart-contracts", "cryptography", "algorithms"],
   techCommunities: {
-                        Founder: "Avangarde",
+                        Founder: "Avangarde", "Crycton",
                         speaker: "Polish(Native), English(B2), German(A2/B1)",
                         mentor: "Satoshi Nakamoto, Vitalik Buterin, Elon Musk"
                       },
