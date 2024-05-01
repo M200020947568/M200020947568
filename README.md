@@ -14,16 +14,16 @@
 ```javascript
 const mateusz = {
   pronouns: "he" | "his",
-  code: [Javascript, Typescript, Golang, Shell],
-  tools: [Docker, Kubernetes, Node, OpenSSL, Nextjs,],
-  architecture: ["microservices", "smart-contracts", "cryptography", "algorithms"],
+  code: [Javascript, Typescript, Golang, Shell, Python],
+  tools: [Docker, Kubernetes, Node, OpenSSL, Nextjs, React],
+  architecture: ["microservices", "smart-contracts", "cryptography", "algorithms", "LLM", "IOT"],
   techCommunities: {
                         Founder: "Avangarde", "Crycton",
                         speaker: "Polish(Native), English(B2), German(A2/B1)",
                         mentor: "Satoshi Nakamoto, Vitalik Buterin, Elon Musk"
                       },
- Idea: "I am creating the Crycton. Modular execution layer, 
-        which connects everything in its decentralised network."
+ Idea: "I am creating the Crycton. Crypto and Stock exchange
+        And Avangarde modular Ai system."
 }
 ```
 
