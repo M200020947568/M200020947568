@@ -1,5 +1,5 @@
 <h2> Hi, I'm Mateusz Gardzina! <img src="https://media.giphy.com/media/cLGu3Icy4OImKOJpai/giphy.gif" width="60"></h2>
-<p><em>Electronics Engineer at <a href="https://elektryk.krosno.pl">High School at Krosno</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Founder and CEO at Avangarde and Crycton <a href="">Avangarde</a><img src="https://media.giphy.com/media/zjMvuV50QM9SzRz4Re/giphy.gif" width="30"> 
+<p><em>Electronics Engineer at <a href="https://elektryk.krosno.pl">High School at Krosno</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Founder and CEO at Avangarde and Crycton 
 </em></p>
 
 [![Twitter: M200020947568](https://img.shields.io/twitter/follow/M200020947568?style=social)](https://twitter.com/M200020947568)
