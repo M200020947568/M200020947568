@@ -20,7 +20,7 @@ const mateusz = {
   techCommunities: {
                         Founder: "Avangarde", "Crycton",
                         speaker: "Polish(Native), English(B2), German(A2/B1)",
-                        mentor: "Satoshi Nakamoto, Vitalik Buterin, Elon Musk"
+                        mentor: "Mate Rimac, Elon Musk"
                       },
  Idea: "I am creating the Crycton. Crypto and Stock exchange
         And Avangarde modular Ai system."
